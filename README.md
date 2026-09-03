@@ -61,7 +61,7 @@ If `VITE_GEMINI_API_KEY` is not set, AI verification uses simulated results (saf
 |------|---------|
 | CO2 emission factors | Constants per task, sourced from World Bank emission factor publications. Not real-time API data. |
 | Water/Energy conversions | 8L water per kg CO2, 2.5 kWh per kg CO2 (World Bank lifecycle averages). |
-| Voucher codes | Randomly generated strings. No real payment or voucher integration. |
+| Voucher codes | Randomly generated strings. No real payment or voucher integration(for now). |
 | Department names | IT, HR, Finance, Marketing (seed data). |
 | Trend chart data | 6-month historical scores are demo data. |
 | targetCO2 baseline | 500 kg used to normalize the Environmental Impact Score. |
